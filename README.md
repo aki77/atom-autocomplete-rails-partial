@@ -8,4 +8,3 @@ Autocomplete+ provider for Rails Partial
 
 * [x] Support for windows
 * [ ] Hyperclick
-* [ ] Caching
