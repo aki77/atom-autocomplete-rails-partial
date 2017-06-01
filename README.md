@@ -6,4 +6,6 @@ Autocomplete+ provider for Rails Partial
 
 ## TODO
 
-* [ ] Support for windows
+* [x] Support for windows
+* [ ] Hyperclick
+* [ ] Caching
